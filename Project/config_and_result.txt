@@ -1,0 +1,75 @@
+Config:
+
+EPOCHS        = 100
+BATCH_SIZE = 64
+DROPOUT       = 0.1
+NUM_LAYERS    = 4
+INPUT_DIM     = 56
+OUTPUT_SIZE   = 1
+HIDDEN_SIZE   = 56
+LEARNING_RATE = 0.0001
+
+Result:
+
+Epoch 5 : corrcoef is 0.011606.			
+	  loss:7.658009895495914e-05
+
+Epoch 10 : corrcoef is 0.027197.
+  	   loss:3.4145165335871275e-05
+
+Epoch 15 : corrcoef is 0.032868.
+	    loss:3.3003674034794154e-05
+
+Epoch 20 : corrcoef is 0.034611.
+	   loss:3.269039198719078e-05
+
+Epoch 25 : corrcoef is 0.036662.
+	   loss:3.242213605251093e-05
+
+Epoch 30 : corrcoef is 0.040631.
+	   loss:3.2440162332621264e-05
+
+Epoch 35 : corrcoef is 0.037532.
+  	   loss:3.2209478097286515e-05
+
+Epoch 40 : corrcoef is 0.038205.
+ 	   loss:3.229254807940092e-05
+
+Epoch 45 : corrcoef is 0.039416.
+	   loss:3.224749088607883e-05
+
+Epoch 50 : corrcoef is 0.038340.
+	   loss:3.227003335517785e-05
+
+Epoch 55 : corrcoef is 0.042442.
+	  loss:3.23084268529055e-05
+
+Epoch 60 : corrcoef is 0.039003.
+	  loss:3.2187141397912796e-05
+
+Epoch 65 : corrcoef is 0.041425.
+	  loss:3.219699623931486e-05
+
+Epoch 70 : corrcoef is 0.036440.
+	   loss:3.216294765594482e-05
+
+Epoch 75 : corrcoef is 0.041898.
+	  loss:3.2220802141815406e-05
+
+Epoch 80 : corrcoef is 0.038768.
+	  loss:3.222831923605047e-05
+
+Epoch 85 : corrcoef is 0.038664.
+	  loss:3.220873211800582e-05
+
+Epoch 90 : corrcoef is 0.039019.
+	  loss:3.229002378257795e-05
+
+Epoch 95 : corrcoef is 0.040161.
+	  loss:3.225518499112679e-05
+
+Epoch 100 : corrcoef is 0.039140.
+	  loss:3.222365919608248e-05
+
+
+TIME COST: 59'50
